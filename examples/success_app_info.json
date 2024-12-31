@@ -1,0 +1,971 @@
+{
+  "code": 0,
+  "credits": 0.003,
+  "result": {
+    "attributes": {
+      "artistName": "reddit",
+      "chartPositions": {
+        "appStore": {
+          "chart": "top-free",
+          "chartLink": "https://apps.apple.com/us/charts/iphone/news-apps/6009",
+          "genre": 6009,
+          "genreName": "News",
+          "position": 1
+        },
+        "messages": {
+          "chart": "top-free",
+          "chartLink": "https://apps.apple.com/us/charts/iphone/news-apps/6009",
+          "genre": 6009,
+          "genreName": "News",
+          "position": 1
+        }
+      },
+      "contentRatingsBySystem": {
+        "appsApple": {
+          "advisories": [
+            "Infrequent/Mild Sexual Content and Nudity",
+            "Infrequent/Mild Horror/Fear Themes",
+            "Frequent/Intense Mature/Suggestive Themes",
+            "Infrequent/Mild Realistic Violence",
+            "Frequent/Intense Profanity or Crude Humor",
+            "Infrequent/Mild Cartoon or Fantasy Violence",
+            "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+            "Infrequent/Mild Medical/Treatment Information"
+          ],
+          "name": "17+",
+          "rank": 4,
+          "value": 600
+        }
+      },
+      "deviceFamilies": [
+        "iphone",
+        "ipad",
+        "ipod"
+      ],
+      "distributionKind": "APP_STORE",
+      "familyShareEnabledDate": "0001-04-23T00:00:00Z",
+      "fileSizeByDevice": {
+        "MacFamily20,1": 236836864,
+        "RealityFamily22,1": 236417024,
+        "iPad11,1": 236836864,
+        "iPad11,2": 236836864,
+        "iPad11,3": 236836864,
+        "iPad11,4": 236836864,
+        "iPad11,6": 236836864,
+        "iPad11,7": 236836864,
+        "iPad12,1": 236417024,
+        "iPad12,2": 236417024,
+        "iPad13,1": 236836864,
+        "iPad13,10": 236836864,
+        "iPad13,11": 236836864,
+        "iPad13,16": 236417024,
+        "iPad13,17": 236417024,
+        "iPad13,18": 236417024,
+        "iPad13,19": 236417024,
+        "iPad13,2": 236836864,
+        "iPad13,4": 236836864,
+        "iPad13,5": 236836864,
+        "iPad13,6": 236836864,
+        "iPad13,7": 236836864,
+        "iPad13,8": 236836864,
+        "iPad13,9": 236836864,
+        "iPad14,1": 236417024,
+        "iPad14,2": 236417024,
+        "iPad14,3-A": 236417024,
+        "iPad14,3-B": 236417024,
+        "iPad14,4-A": 236417024,
+        "iPad14,4-B": 236417024,
+        "iPad14,5-A": 236417024,
+        "iPad14,5-B": 236417024,
+        "iPad14,6-A": 236417024,
+        "iPad14,6-B": 236417024,
+        "iPad5,1": 236836864,
+        "iPad5,2": 236836864,
+        "iPad5,3": 236836864,
+        "iPad5,4": 236836864,
+        "iPad6,11": 236836864,
+        "iPad6,12": 236836864,
+        "iPad6,3": 236836864,
+        "iPad6,4": 236836864,
+        "iPad6,7": 236836864,
+        "iPad6,8": 236836864,
+        "iPad7,1": 236836864,
+        "iPad7,11": 236836864,
+        "iPad7,12": 236836864,
+        "iPad7,2": 236836864,
+        "iPad7,3": 236836864,
+        "iPad7,4": 236836864,
+        "iPad7,5": 236836864,
+        "iPad7,6": 236836864,
+        "iPad8,1": 236836864,
+        "iPad8,10": 236836864,
+        "iPad8,11": 236836864,
+        "iPad8,12": 236836864,
+        "iPad8,2": 236836864,
+        "iPad8,3": 236836864,
+        "iPad8,4": 236836864,
+        "iPad8,5": 236836864,
+        "iPad8,6": 236836864,
+        "iPad8,7": 236836864,
+        "iPad8,8": 236836864,
+        "iPad8,9": 236836864,
+        "iPhone10,1": 236836864,
+        "iPhone10,2": 242698240,
+        "iPhone10,3": 242698240,
+        "iPhone10,4": 236836864,
+        "iPhone10,5": 242698240,
+        "iPhone10,6": 242698240,
+        "iPhone11,2": 242698240,
+        "iPhone11,4": 242698240,
+        "iPhone11,6": 242698240,
+        "iPhone11,8": 236836864,
+        "iPhone12,1": 236836864,
+        "iPhone12,3": 242698240,
+        "iPhone12,5": 242698240,
+        "iPhone12,8": 236836864,
+        "iPhone13,1": 242698240,
+        "iPhone13,2": 242698240,
+        "iPhone13,3": 242698240,
+        "iPhone13,4": 242698240,
+        "iPhone14,2": 242278400,
+        "iPhone14,3": 242278400,
+        "iPhone14,4": 242278400,
+        "iPhone14,5": 242278400,
+        "iPhone14,6": 236417024,
+        "iPhone14,7": 242278400,
+        "iPhone14,8": 242278400,
+        "iPhone15,2": 242278400,
+        "iPhone15,3": 242278400,
+        "iPhone15,4": 242278400,
+        "iPhone15,5": 242278400,
+        "iPhone16,1": 242278400,
+        "iPhone16,2": 242278400,
+        "iPhone8,1": 236836864,
+        "iPhone8,2": 242698240,
+        "iPhone8,4": 236836864,
+        "iPhone9,1": 236836864,
+        "iPhone9,2": 242698240,
+        "iPhone9,3": 236836864,
+        "iPhone9,4": 242698240,
+        "iPod9,1": 236836864,
+        "universal": 260239360
+      },
+      "genreDisplayName": "News",
+      "hasEula": false,
+      "isFirstPartyHideableApp": false,
+      "isIOSBinaryMacOSCompatible": false,
+      "isPreorder": false,
+      "name": "Reddit",
+      "platformAttributes": {
+        "ios": {
+          "artwork": {
+            "bgColor": "ff4400",
+            "height": 1024,
+            "textColor1": "060c0d",
+            "textColor2": "0a1417",
+            "textColor3": "38170b",
+            "textColor4": "3b1e13",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/14/5d/48145db8-712d-a58c-cb08-db50bcb9745f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/{w}x{h}{c}.{f}",
+            "width": 1024
+          },
+          "bundleId": "com.reddit.Reddit",
+          "copyright": "© 2024 Reddit, Inc.",
+          "customAttributes": {
+            "default": {
+              "default": {
+                "customScreenshotsByType": {
+                  "ipadPro": [
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "181612",
+                      "textColor3": "330d00",
+                      "textColor4": "46200e",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/75/16/4c/75164cb3-c596-018c-af1f-85b5dc6f7207/1122d97a-8471-41fd-915b-04cb6c32d511_Reddit_SS_Brand_Update_Colorful_Set_Ipad_1.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "ff5fc3",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "281b16",
+                      "textColor3": "331327",
+                      "textColor4": "532839",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0d/c2/9a/0dc29ae0-d228-87c9-9e4b-d5a5958c4955/31f0982f-974d-4e27-82ac-b7dd0e8e0d39_Reddit_SS_Brand_Update_Colorful_Set_Ipad_2.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "ffb200",
+                      "height": 2732,
+                      "textColor1": "030303",
+                      "textColor2": "341615",
+                      "textColor3": "352602",
+                      "textColor4": "5c3510",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4b/a7/0a/4ba70a13-1a4d-8af8-8f44-bb974984c270/398367b8-d75f-4efe-852e-290fe029e8c4_Reddit_SS_Brand_Update_Colorful_Set_Ipad_3.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "231611",
+                      "textColor3": "330d00",
+                      "textColor4": "4f200e",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/f5/a2/3df5a20f-a7ab-6775-fe71-f84df05dac37/c2af4ff9-66bd-4339-954e-0e622e9961af_Reddit_SS_Brand_Update_Colorful_Set_Ipad_4.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "aeef0f",
+                      "height": 2732,
+                      "textColor1": "080808",
+                      "textColor2": "242526",
+                      "textColor3": "293609",
+                      "textColor4": "404d21",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/f9/41/f1f941a1-6405-b62c-9516-0e273eb93316/2351baac-f5ac-4aa9-8430-4edc7892b246_Reddit_SS_Brand_Update_Colorful_Set_Ipad_5.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "00e2b7",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "303030",
+                      "textColor3": "002d24",
+                      "textColor4": "26544b",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/09/46/a6/0946a6b8-23b8-fea4-5e2c-64b8d04b023b/7f7f77c3-acfb-4411-a0eb-de2818ef8285_Reddit_SS_Brand_Update_Colorful_Set_Ipad_6.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    }
+                  ],
+                  "ipadPro_2018": [
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "181612",
+                      "textColor3": "330d00",
+                      "textColor4": "46200e",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/92/2f/68/922f680a-7079-b71f-d6ee-cb49381d52a9/18eae5ec-239e-4960-b0df-2504df241a2d_Reddit_SS_Brand_Update_Colorful_Set_Ipad_1.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "ff5fc3",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "281b16",
+                      "textColor3": "331327",
+                      "textColor4": "532839",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/99/42/a7/9942a78d-5ecc-d20e-cde3-8182732ef1e3/c9ccb95a-40d0-4176-a2a3-cf218bac93a6_Reddit_SS_Brand_Update_Colorful_Set_Ipad_2.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "ffb200",
+                      "height": 2732,
+                      "textColor1": "030303",
+                      "textColor2": "341615",
+                      "textColor3": "352602",
+                      "textColor4": "5c3510",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/96/64/63/96646369-faab-ca53-5787-2d36c847919e/4d0d048b-68ec-4070-b1b8-989fabfb337b_Reddit_SS_Brand_Update_Colorful_Set_Ipad_3.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "231611",
+                      "textColor3": "330d00",
+                      "textColor4": "4f200e",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/db/4e/a6/db4ea6c0-d145-fcdc-68e4-eb5a541670b7/7e4fc302-6e2d-4e2c-9825-ba9ee1cf0318_Reddit_SS_Brand_Update_Colorful_Set_Ipad_4.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "aeef0f",
+                      "height": 2732,
+                      "textColor1": "080808",
+                      "textColor2": "242526",
+                      "textColor3": "293609",
+                      "textColor4": "404d21",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/7f/fd/f67ffd44-d073-8ec1-1957-5cf4be14ce97/31d034ec-dbc9-492d-abd1-2eb4667b5a40_Reddit_SS_Brand_Update_Colorful_Set_Ipad_5.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    },
+                    {
+                      "bgColor": "00e2b7",
+                      "height": 2732,
+                      "textColor1": "000000",
+                      "textColor2": "303030",
+                      "textColor3": "002d24",
+                      "textColor4": "26544b",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/dd/19/e1dd1902-216b-a006-3488-95c2bfe16489/cf894c5b-77ac-4b8c-8b3d-a49b88dfff36_Reddit_SS_Brand_Update_Colorful_Set_Ipad_6.jpg/{w}x{h}{c}.{f}",
+                      "width": 2048
+                    }
+                  ],
+                  "iphone6+": [
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2208,
+                      "textColor1": "000000",
+                      "textColor2": "310b0b",
+                      "textColor3": "330d00",
+                      "textColor4": "5a1708",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/bf/75/2fbf750b-1d77-3c06-8807-3342b049c697/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "ff5fc2",
+                      "height": 2208,
+                      "textColor1": "000000",
+                      "textColor2": "271815",
+                      "textColor3": "331326",
+                      "textColor4": "522638",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/6e/19/536e1940-1c7f-7d58-04d2-d99a24536b93/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "ffffff",
+                      "height": 2208,
+                      "textColor1": "040404",
+                      "textColor2": "3a2416",
+                      "textColor3": "363636",
+                      "textColor4": "615044",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d8/ee/20/d8ee2051-4e26-6cba-c64f-9127d94a3d1d/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2208,
+                      "textColor1": "000000",
+                      "textColor2": "1d1911",
+                      "textColor3": "330d00",
+                      "textColor4": "4a210d",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/82/c4/7a/82c47ac6-181e-c08e-9ece-0c92b5ff471d/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "aeef0f",
+                      "height": 2208,
+                      "textColor1": "0a0a0a",
+                      "textColor2": "202020",
+                      "textColor3": "2b380b",
+                      "textColor4": "3c491c",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a9/59/f1/a959f14c-e570-24ab-c83e-b49f643c3fe3/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "00e2b7",
+                      "height": 2208,
+                      "textColor1": "000000",
+                      "textColor2": "003633",
+                      "textColor3": "002d24",
+                      "textColor4": "00584e",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/86/d3/66/86d366b4-f2fd-a638-4ec3-92d15f504c4f/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    }
+                  ],
+                  "iphone_6_5": [
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2688,
+                      "textColor1": "060c01",
+                      "textColor2": "161616",
+                      "textColor3": "381701",
+                      "textColor4": "452012",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7f/19/53/7f19537b-f5e6-83b3-9401-3e96a2e40ab8/d4e0dd9e-9fa5-4fab-bf48-ef050f36c225_Reddit_SS_Brand_Update_Colorful_Set_6.5_1.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "ff5fc2",
+                      "height": 2688,
+                      "textColor1": "000000",
+                      "textColor2": "1c1616",
+                      "textColor3": "331326",
+                      "textColor4": "492538",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/b9/2c/e7b92c90-2bd3-a4b1-caeb-e1e782727c4f/ba1a2880-3b5e-41f2-b522-e13b83da6868_Reddit_SS_Brand_Update_Colorful_Set_6.5_2.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "ffffff",
+                      "height": 2688,
+                      "textColor1": "040404",
+                      "textColor2": "3a2a16",
+                      "textColor3": "363636",
+                      "textColor4": "615544",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/45/cc/a445cc80-0e60-39c8-393e-9557f03e755a/b3a42d4a-f08a-45cb-90ab-c4016702aee5_Reddit_SS_Brand_Update_Colorful_Set_6.5_3.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "ff4400",
+                      "height": 2688,
+                      "textColor1": "000000",
+                      "textColor2": "20140f",
+                      "textColor3": "330d00",
+                      "textColor4": "4d1e0c",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/25/59/05/255905f4-897e-fcaa-eb0d-100fe067d814/bd734e74-6aa1-451b-916b-ae344c90e4f5_Reddit_SS_Brand_Update_Colorful_Set_6.5_4.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "aeef0f",
+                      "height": 2688,
+                      "textColor1": "0a0a0a",
+                      "textColor2": "272727",
+                      "textColor3": "2b380b",
+                      "textColor4": "424f22",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/31/c2/bc/31c2bcb7-21ec-2629-7c33-a32142cfb1f2/00c270e3-e70b-44b0-b40b-db2b8ccb5bd0_Reddit_SS_Brand_Update_Colorful_Set_6.5_5.jpg/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    },
+                    {
+                      "bgColor": "00e2b7",
+                      "height": 2688,
+                      "textColor1": "000000",
+                      "textColor2": "003127",
+                      "textColor3": "002d24",
+                      "textColor4": "005444",
+                      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a5/2d/6e/a52d6e0d-7a03-1aec-b8a2-e25b3acefd4c/b79caaca-74e9-46e0-af41-f96c95695b33_Reddit_SS_Brand_Update_Colorful_Set_6.5_6.png/{w}x{h}{c}.{f}",
+                      "width": 1242
+                    }
+                  ]
+                },
+                "customVideoPreviewsByType": {}
+              }
+            }
+          },
+          "description": {
+            "standard": "Welcome to Reddit, the heart of the internet.\n\nReddit is a social network with something for everyone: trending topics, diverse discussions, and engaging communities and comment threads.\n\nRedditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.\n\nReddit has over 100,000 online communities (forums where members post and comment) dedicated to specific topics. Some of the most popular communities are:\n• r/AskReddit, where users can ask and answer questions\n• r/funny, which is full of humorous content\n• r/science, for scientific discussions and news\n• r/gifs, with funny animated gifs for your viewing pleasure\n\nOn Reddit you’ll find:\n• Thousands of community groups\nBreaking news, social media trends, sports highlights, TV fan theories, open AI discussions and personalized content, there's a community for everyone.\n\n• Loads of laughs\nFind memes, oddly satisfying videos, funny cat videos, and more to help you lose track of time.\n\n• AMAs, or \"Ask Me Anything\"\nCelebrities, politicians, and experts answer questions from users.\n\n• The best discussions on any topic\nReddit’s discussion threads are where community members jump in with humor and insights for just about anything; pop culture, sports, entertainment, or financial advice.\n\n• Get answers to anonymous questions \nAsk communities anything you want. Ask questions on relationships, mental health, parenting, career help, fitness plans, and more.\n\n• Anonymous profiles so you can do YOU\nConnect with people about any topic, join interactive community groups or threads, and chat with other redditors, all anonymously.\n\nVoting and Karma:\n\nInstead of likes and hearts, Reddit’s social network runs on upvotes or downvotes. Voting on posts and comments increase or decrease the creator’s karma, and helps popular and relevant posts rise to the top, while filtering out low-quality or irrelevant posts.\n\nWhile karma doesn't directly impact your ability to use Reddit, more karma can increase posts’ visibility and help you get noticed. Some communities require karma to post or comment, which helps prevent spam or low-quality content.\n\nReddit Premium:\n\nPurchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more.\n\nPayment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device’s Account Settings. No partial refunds.\n\nPrivacy Policy: https://www.redditinc.com/policies/privacy-policy \nUser Agreement: https://www.redditinc.com/policies/user-agreement \nContent Policy: https://www.redditinc.com/policies/content-policy \n\nIf you have any problems with the app, get support at RedditHelp.com"
+          },
+          "editorialArtwork": {
+            "bannerUber": {
+              "bgColor": "eb5528",
+              "height": 1080,
+              "textColor1": "161211",
+              "textColor2": "161211",
+              "textColor3": "401f15",
+              "textColor4": "401f15",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/e6/b5/d0/e6b5d0b6-a451-5db8-6975-26698976fad4/07df506b-ee6d-4b75-9656-61e56870afe7.png/{w}x{h}sr.{f}",
+              "width": 4320
+            },
+            "brandLogo": {
+              "bgColor": "000000",
+              "height": 1080,
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/19/3e/cd/193ecd3c-921f-8967-67dc-1d3cd9b2ef75/37a49a21-fbec-4f71-966c-2fc8dbcb96b3.png/{w}x{h}{c}.{f}",
+              "width": 1080
+            },
+            "contentIconTrimmed": {
+              "bgColor": "575c62",
+              "height": 1080,
+              "textColor1": "fafbfc",
+              "textColor2": "f0f1f2",
+              "textColor3": "d9dbdd",
+              "textColor4": "d1d3d5",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/54/2e/67/542e6752-1df2-3258-d9e6-fea572cced28/9891d8ca-05b5-4667-8bec-b3fc8b2ae24c.png/{w}x{h}{c}.{f}",
+              "width": 990
+            },
+            "contentIconTrimmedMonochrome": {
+              "bgColor": "000000",
+              "height": 1080,
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/9b/2f/2c/9b2f2c8d-7f71-4b3d-b3f3-c095e9bdc1b5/bdb47b8f-9739-48e1-b674-ea7060cb7ac9.png/{w}x{h}{c}.{f}",
+              "width": 990
+            },
+            "storeFlowcase": {
+              "bgColor": "ff4300",
+              "height": 1080,
+              "textColor1": "100400",
+              "textColor2": "161616",
+              "textColor3": "401100",
+              "textColor4": "451f12",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/1b/85/54/1b85541e-d9ff-b6ce-9eea-6408969f1f21/mza_8487773791410580230.png/{w}x{h}{c}.{f}",
+              "width": 4320
+            },
+            "subscriptionHero": {
+              "bgColor": "d3dcdf",
+              "height": 1080,
+              "textColor1": "231614",
+              "textColor2": "2a2014",
+              "textColor3": "3f3533",
+              "textColor4": "463e33",
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/9e/d2/88/9ed28827-d79a-89e0-60fd-c27d5c2f5a73/U0gtQVAtV1ctUmVkZGl0LnBuZw.png/{w}x{h}{c}.{f}",
+              "width": 4320
+            }
+          },
+          "editorialBadgeInfo": {
+            "editorialBadgeType": "editorialPriority",
+            "nameForDisplay": "Editors’ Choice"
+          },
+          "editorialNotes": {
+            "short": "Discover communities and topics.",
+            "standard": "Whether you love movies, kittens, science, kittens, politics, or kittens, Reddit’s official app puts all this (plus kittens) at your fingertips. With a colorful and intuitive layout, it’s easy to browse and post to “the front page of the internet” across thousands of subreddits that cater to virtually every area of interest. Search for communities that line up with your hobbies; filter posts by posting time, hotness, and more; and get a breakdown of your own Redditing history to see where you reaped all that sweet, sweet karma. (Pro tip: You can’t go wrong with pictures of—you guessed it—kittens.)",
+            "tagline": "Add widgets to your Home Screen"
+          },
+          "externalVersionId": 865110043,
+          "hasFamilyShareableInAppPurchases": false,
+          "hasInAppPurchases": true,
+          "hasMessagesExtension": true,
+          "hasPrivacyPolicyText": false,
+          "hasSafariExtension": false,
+          "is32bitOnly": false,
+          "isAppleWatchSupported": false,
+          "isDeliveredInIOSAppForWatchOS": false,
+          "isGameCenterEnabled": false,
+          "isHiddenFromSpringboard": false,
+          "isSiriSupported": false,
+          "isStandaloneForWatchOS": false,
+          "isStandaloneWithCompanionForWatchOS": false,
+          "isXROSCompatible": true,
+          "languageList": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Portuguese",
+            "Spanish"
+          ],
+          "messagesScreenshots": {
+            "ipadPro": [
+              {
+                "bgColor": "ffffff",
+                "height": 2732,
+                "textColor1": "000001",
+                "textColor2": "1d1d1d",
+                "textColor3": "333334",
+                "textColor4": "4a4a4a",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/67/a6/4467a6a7-2527-ee5f-2326-5e6d7d9a03ed/ef4c3ccd-2d18-4347-9a67-87ed60a93460_app2021_iPadTablet_2408x2732_imessage_Screen1.png/{w}x{h}{c}.{f}",
+                "width": 2048
+              },
+              {
+                "bgColor": "ffffff",
+                "height": 2732,
+                "textColor1": "000000",
+                "textColor2": "2b2b2b",
+                "textColor3": "333333",
+                "textColor4": "555555",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/04/1a/d7041acb-7eda-0562-abf3-1a5f57b29a41/6fd4a363-bf48-4edb-8a4c-b36f0eb74550_app2021_iPadTablet_2408x2732_imessage_Screen2.png/{w}x{h}{c}.{f}",
+                "width": 2048
+              }
+            ],
+            "ipadPro_2018": [
+              {
+                "bgColor": "ffffff",
+                "height": 2732,
+                "textColor1": "000001",
+                "textColor2": "1d1d1d",
+                "textColor3": "333334",
+                "textColor4": "4a4a4a",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/9a/71/319a714f-6341-a974-9637-a67211f0101b/c14b9385-1b8e-4f34-af17-7aa76ef64f66_app2021_iPadTablet_2408x2732_imessage_Screen1.png/{w}x{h}{c}.{f}",
+                "width": 2048
+              },
+              {
+                "bgColor": "ffffff",
+                "height": 2732,
+                "textColor1": "000000",
+                "textColor2": "2b2b2b",
+                "textColor3": "333333",
+                "textColor4": "555555",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/36/1e/e7361ec1-af61-e07f-5be7-079588293ad0/e5782247-c286-4654-b0fd-0b293a5e41ad_app2021_iPadTablet_2408x2732_imessage_Screen2.png/{w}x{h}{c}.{f}",
+                "width": 2048
+              }
+            ],
+            "iphone6+": [
+              {
+                "bgColor": "ffffff",
+                "height": 2208,
+                "textColor1": "000000",
+                "textColor2": "292929",
+                "textColor3": "333333",
+                "textColor4": "545454",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/97/5b/d6/975bd6b4-3b16-10a0-b758-efd6a04129cf/fae93681-b48d-4a69-8ab6-33279d30e461_app2021_1242x2208_imessage_Screen1@3x.png/{w}x{h}{c}.{f}",
+                "width": 1242
+              },
+              {
+                "bgColor": "ffffff",
+                "height": 2208,
+                "textColor1": "000000",
+                "textColor2": "1e1e1e",
+                "textColor3": "333333",
+                "textColor4": "4b4b4b",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/ce/f1/21cef161-8562-0984-1e11-8dfa6ff836ef/e9396f6c-11b0-4053-a226-0cd1d356ca75_app2021_1242x2208_imessage_Screen2@3x.png/{w}x{h}{c}.{f}",
+                "width": 1242
+              },
+              {
+                "bgColor": "ffffff",
+                "height": 2208,
+                "textColor1": "000000",
+                "textColor2": "433020",
+                "textColor3": "333333",
+                "textColor4": "69594c",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/61/6f/cd/616fcd5b-669e-c350-2713-6b01192a8930/09535fb3-5932-4686-b936-0806271d138e_app2021_1242x2208_imessage_Screen3@3x.png/{w}x{h}{c}.{f}",
+                "width": 1242
+              }
+            ],
+            "iphone_6_5": [
+              {
+                "bgColor": "ffffff",
+                "height": 2688,
+                "textColor1": "000000",
+                "textColor2": "2a2a2a",
+                "textColor3": "333333",
+                "textColor4": "555555",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/89/73/588973c6-8cc0-00a1-b437-00c690bb5658/115c6ff9-93cc-4d1b-9748-104eba05297d_app2021_1242x2688_imessage_Screen1@3x.png/{w}x{h}{c}.{f}",
+                "width": 1242
+              },
+              {
+                "bgColor": "ffffff",
+                "height": 2688,
+                "textColor1": "080808",
+                "textColor2": "252525",
+                "textColor3": "393939",
+                "textColor4": "505050",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/69/9a/e5699a06-9671-b159-f0dd-23083cd8ef6c/5e00271c-5cad-4e8d-a72a-bbae4ae97b4e_app2021_1242x2688_imessage_Screen2@3x.png/{w}x{h}{c}.{f}",
+                "width": 1242
+              },
+              {
+                "bgColor": "ffffff",
+                "height": 2688,
+                "textColor1": "080808",
+                "textColor2": "433020",
+                "textColor3": "393939",
+                "textColor4": "69594c",
+                "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/2e/79/de2e79ac-c7e1-c9bf-f130-87f84905c892/1c2ca02b-e541-4d8c-89f4-32fd5a5696fb_app2021_1242x2688_imessage_Screen3@3x.png/{w}x{h}{c}.{f}",
+                "width": 1242
+              }
+            ]
+          },
+          "minimumMacOSVersion": "11.0",
+          "minimumOSVersion": "14.0",
+          "minimumXROSVersion": "1.0",
+          "offers": [
+            {
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 260239360
+                }
+              ],
+              "buyParams": "productType=C&price=0&salableAdamId=1064216828&pricingParameters=STDQ&pg=default&appExtVrsId=865110043",
+              "currencyCode": "USD",
+              "price": 0,
+              "priceFormatted": "$0.00",
+              "type": "get"
+            },
+            {
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 260239360
+                }
+              ],
+              "buyParams": "productType=C&price=0&salableAdamId=1064216828&pricingParameters=SWUPD&pg=default&appExtVrsId=865110043",
+              "currencyCode": "USD",
+              "price": 0,
+              "priceFormatted": "$0.00",
+              "type": "update"
+            }
+          ],
+          "ovalArtwork": {
+            "bgColor": "c82800",
+            "height": 768,
+            "textColor1": "ffffff",
+            "textColor2": "8dcffa",
+            "textColor3": "f4d4cb",
+            "textColor4": "99adc8",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/3f/07/fb3f078f-764a-89a8-5ef3-e6e136c0a623/iMessage_App_Icon-0-0-1x_U007emarketing-0-85-181.png/{w}x{h}{c}.{f}",
+            "width": 1024
+          },
+          "privacyPolicyUrl": "https://www.reddit.com/help/privacypolicy",
+          "releaseDate": "2016-04-07",
+          "requiredCapabilities": "arm64 ",
+          "requiredCapabilitiesForRealityDevice": "arm64 ",
+          "requirementsString": "Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.",
+          "requires32bit": false,
+          "requiresGameController": false,
+          "seller": "REDDIT, INC.",
+          "subtitle": "Social Forum & Community Chats",
+          "supportURLForLanguage": "https://www.reddit.com/r/bugs",
+          "supportedLocales": [
+            {
+              "name": "English",
+              "tag": "en-US"
+            },
+            {
+              "name": "French",
+              "tag": "fr-FR"
+            },
+            {
+              "name": "German",
+              "tag": "de-DE"
+            },
+            {
+              "name": "Italian",
+              "tag": "it"
+            },
+            {
+              "name": "Portuguese",
+              "tag": "pt-PT"
+            },
+            {
+              "name": "Spanish",
+              "tag": "es-ES"
+            }
+          ],
+          "supportsGameController": false,
+          "supportsPassbook": false,
+          "versionHistory": [
+            {
+              "releaseDate": "2024-04-15",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-04-15T19:51:25Z",
+              "versionDisplay": "2024.16.0"
+            },
+            {
+              "releaseDate": "2024-04-10",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-04-10T15:04:40Z",
+              "versionDisplay": "2024.15.0"
+            },
+            {
+              "releaseDate": "2024-04-02",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-04-02T20:57:01Z",
+              "versionDisplay": "2024.14.0"
+            },
+            {
+              "releaseDate": "2024-03-25",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-03-25T20:55:13Z",
+              "versionDisplay": "2024.13.0"
+            },
+            {
+              "releaseDate": "2024-03-18",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-03-18T19:18:55Z",
+              "versionDisplay": "2024.12.0"
+            },
+            {
+              "releaseDate": "2024-03-14",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-03-14T23:53:26Z",
+              "versionDisplay": "2024.11.1"
+            },
+            {
+              "releaseDate": "2024-03-11",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-03-11T21:58:48Z",
+              "versionDisplay": "2024.11.0"
+            },
+            {
+              "releaseDate": "2024-03-07",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-03-07T19:07:34Z",
+              "versionDisplay": "2024.10.1"
+            },
+            {
+              "releaseDate": "2024-03-04",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-03-04T22:16:20Z",
+              "versionDisplay": "2024.10.0"
+            },
+            {
+              "releaseDate": "2024-02-21",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-02-21T21:25:04Z",
+              "versionDisplay": "2024.08.1"
+            },
+            {
+              "releaseDate": "2024-02-20",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-02-20T19:03:37Z",
+              "versionDisplay": "2024.08.0"
+            },
+            {
+              "releaseDate": "2024-02-15",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-02-15T13:50:55Z",
+              "versionDisplay": "2024.07.1"
+            },
+            {
+              "releaseDate": "2024-02-12",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-02-12T23:42:13Z",
+              "versionDisplay": "2024.07.0"
+            },
+            {
+              "releaseDate": "2024-02-06",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-02-06T18:14:26Z",
+              "versionDisplay": "2024.06.0"
+            },
+            {
+              "releaseDate": "2024-01-29",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-01-29T20:16:06Z",
+              "versionDisplay": "2024.05.0"
+            },
+            {
+              "releaseDate": "2024-01-24",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-01-24T18:19:43Z",
+              "versionDisplay": "2024.04.1"
+            },
+            {
+              "releaseDate": "2024-01-22",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-01-22T22:40:23Z",
+              "versionDisplay": "2024.04.0"
+            },
+            {
+              "releaseDate": "2024-01-16",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-01-16T20:25:19Z",
+              "versionDisplay": "2024.03.0"
+            },
+            {
+              "releaseDate": "2024-01-08",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2024-01-08T21:59:57Z",
+              "versionDisplay": "2024.02.0"
+            },
+            {
+              "releaseDate": "2023-12-18",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2023-12-18T20:46:41Z",
+              "versionDisplay": "2023.50.1"
+            },
+            {
+              "releaseDate": "2023-12-12",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2023-12-12T19:31:12Z",
+              "versionDisplay": "2023.50.0"
+            },
+            {
+              "releaseDate": "2023-12-04",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2023-12-04T21:23:24Z",
+              "versionDisplay": "2023.48.0"
+            },
+            {
+              "releaseDate": "2023-11-28",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2023-11-28T22:16:38Z",
+              "versionDisplay": "2023.47.1"
+            },
+            {
+              "releaseDate": "2023-11-27",
+              "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2023-11-27T20:24:38Z",
+              "versionDisplay": "2023.47.0"
+            },
+            {
+              "releaseDate": "2023-11-13",
+              "releaseNotes": "• Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+              "releaseTimestamp": "2023-11-13T21:16:36Z",
+              "versionDisplay": "2023.45.0"
+            }
+          ],
+          "videoPreviewsByType": {},
+          "websiteUrl": "https://www.reddit.com/mobile/download"
+        }
+      },
+      "privacy": {
+        "privacyTypes": [
+          {
+            "dataCategories": [
+              {
+                "dataCategory": "Identifiers",
+                "identifier": "IDENTIFIERS"
+              },
+              {
+                "dataCategory": "Usage Data",
+                "identifier": "USAGE_DATA"
+              }
+            ],
+            "description": "The following data may be used to track you across apps and websites owned by other companies:",
+            "identifier": "DATA_USED_TO_TRACK_YOU",
+            "privacyType": "Data Used to Track You"
+          },
+          {
+            "dataCategories": [
+              {
+                "dataCategory": "Purchases",
+                "identifier": "PURCHASES"
+              },
+              {
+                "dataCategory": "Location",
+                "identifier": "LOCATION"
+              },
+              {
+                "dataCategory": "Contact Info",
+                "identifier": "CONTACT_INFO"
+              },
+              {
+                "dataCategory": "User Content",
+                "identifier": "USER_CONTENT"
+              },
+              {
+                "dataCategory": "Search History",
+                "identifier": "SEARCH_HISTORY"
+              },
+              {
+                "dataCategory": "Identifiers",
+                "identifier": "IDENTIFIERS"
+              },
+              {
+                "dataCategory": "Usage Data",
+                "identifier": "USAGE_DATA"
+              },
+              {
+                "dataCategory": "Diagnostics",
+                "identifier": "DIAGNOSTICS"
+              }
+            ],
+            "description": "The following data may be collected but it is not linked to your identity:",
+            "identifier": "DATA_NOT_LINKED_TO_YOU",
+            "privacyType": "Data Not Linked to You"
+          }
+        ]
+      },
+      "requirementsByDeviceFamily": {
+        "ipad": {
+          "deviceFamily": "iPad",
+          "requirementString": "Requires iPadOS 14.0 or later."
+        },
+        "iphone": {
+          "deviceFamily": "iPhone",
+          "requirementString": "Requires iOS 14.0 or later."
+        },
+        "ipod": {
+          "deviceFamily": "iPod touch",
+          "requirementString": "Requires iOS 14.0 or later."
+        },
+        "realityDevice": {
+          "deviceFamily": "Apple Vision",
+          "requirementString": "Requires visionOS 1.0 or later."
+        }
+      },
+      "reviewsRestricted": false,
+      "sellerLabel": "Seller",
+      "supportsArcade": false,
+      "supportsStreamlinedBuy": false,
+      "url": "https://apps.apple.com/us/app/reddit/id1064216828",
+      "userRating": {
+        "ariaLabelForRatings": "4.8 stars",
+        "ratingCount": 2877034,
+        "ratingCountList": [
+          83056,
+          12222,
+          40324,
+          229459,
+          2511973
+        ],
+        "value": 4.8
+      },
+      "usesLocationBackgroundMode": false
+    },
+    "id": "1064216828",
+    "type": "apps"
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/apple-app-store-api-f552"
+}

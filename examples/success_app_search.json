@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "credits": 0.003,
+  "result": {
+    "items": [
+      {
+        "description": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are...",
+        "id": "389801252",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/e5/17/97e51755-e71d-b5b1-ed67-0975a7558abc/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/instagram/id389801252",
+        "rank": 1,
+        "title": "Instagram"
+      },
+      {
+        "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet...",
+        "id": "835599320",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/8d/7d/758d7d37-9de9-00a0-172f-26c4f2c56991/AppIcon_TikTok-0-0-1x_U007epad-0-0-0-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/tiktok/id835599320",
+        "rank": 2,
+        "title": "TikTok"
+      },
+      {
+        "description": "Snapchat is a fast and fun way to share the moment with your friends and family\n\nSNAP \n• Snapchat opens right to the Camera — just tap to take a photo, or...",
+        "id": "447188370",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/e3/8a/f4e38a38-4e24-0003-0622-6844b6acb63f/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/snapchat/id447188370",
+        "rank": 3,
+        "title": "Snapchat"
+      },
+      {
+        "description": "Explore, connect and share your interests with real people. Whether you’re looking for a spark of inspiration with reels or want to dive deeper into...",
+        "id": "284882215",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/ea/08/56ea08cf-ef23-d695-7a05-3b370779bfca/Icon-Production-0-0-1x_U007emarketing-0-7-0-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/facebook/id284882215",
+        "rank": 4,
+        "title": "Facebook"
+      },
+      {
+        "description": "The X app is the trusted global digital town square for everyone.\n\nWith X, you can:\n\n- Post content for the world to see and join public conversations\n-...",
+        "id": "333903271",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/e8/f8/f6e8f8ef-9a35-2a05-5a4d-2c9412ad2dd5/ProductionAppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/x/id333903271",
+        "rank": 5,
+        "title": "X"
+      },
+      {
+        "description": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion,...",
+        "id": "544007664",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/d1/9b/37d19bae-8b0f-8816-6e4e-31c7df1c4c78/logo_youtube_color-1x_U007emarketing-0-6-0-0-85-220-0.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664",
+        "rank": 6,
+        "title": "YouTube: Watch, Listen, Stream"
+      },
+      {
+        "description": "Be together whenever, with our free* all-in-one communication app, complete with unlimited text, voice, video calling and group video chat features.\n...",
+        "id": "454638411",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ee/07/b8ee070a-d729-2dd4-e350-654dd5810089/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/messenger/id454638411",
+        "rank": 7,
+        "title": "Messenger"
+      },
+      {
+        "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. Stream music and podcasts, discover albums,...",
+        "id": "324684580",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/d0/f9/25d0f936-9086-807f-0686-d402357a1db6/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
+        "rank": 8,
+        "title": "Spotify - Music and Podcasts"
+      },
+      {
+        "description": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. It’s simple, reliable, and private,...",
+        "id": "310633997",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/2e/9e/b62e9e96-0ce9-555e-71d4-acc809dd1335/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/350x350.png",
+        "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
+        "rank": 9,
+        "title": "WhatsApp Messenger"
+      }
+    ]
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/apple-app-store-api-f552"
+}
